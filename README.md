@@ -1,7 +1,6 @@
 # Image Swap
 
-A simple command line tool for swapping image formats. 
-Quick and basic. 
+Imgswap is a basic tool to swap image formats, resize resolution, and shrink images quickly. 
 
 input / output determined by file extension.
 
